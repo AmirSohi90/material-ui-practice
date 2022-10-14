@@ -4,7 +4,7 @@ import Button from '@mui/material/Button'
 import Container from '@mui/material/Container' //applies padding and margin to content
 import KeyboardArrowRightIcon from '@mui/icons-material/KeyboardArrowRight';
 
-const styles = { // takes an argument where you can make your css classes and rules
+const styles = { // we use the object for our custom styling, including out pseudo selectors
     btn: {
         fontSize: 60,
         backgroundColor: 'violet',
